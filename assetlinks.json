@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.snezedu.app",
+        "sha256_cert_fingerprints": ["8F:C0:E1:21:42:A1:85:D7:82:26:79:72:2E:50:BB:C2:E4:CC:7F:51:78:43:84:FC:18:72:97:80:EA:05:6A:F8"]
+      }
+    }]
